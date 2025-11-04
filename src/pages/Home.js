@@ -33,13 +33,13 @@ export default function Home() {
           <article className="card" aria-label="Location">
             <div className="card-body">
               <h3 style={{ margin: 0 }}>Location</h3>
-              <p className="desc">Ravet, Pune</p>
+              <p className="desc">Shirol, Kolhapur</p>
             </div>
           </article>
           <article className="card" aria-label="Contact">
             <div className="card-body">
               <h3 style={{ margin: 0 }}>Contact</h3>
-              <p className="desc">+91-9293949596 • hello@paradiseveg.com</p>
+              <p className="desc">+91-9293949596 • admin@paradiseveg.com</p>
             </div>
           </article>
           <article className="card" aria-label="Cuisine">
