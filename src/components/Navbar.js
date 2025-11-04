@@ -6,7 +6,7 @@ export default function Navbar() {
   return (
     <nav className="navbar">
       <div className="nav-inner">
-        <button className="brand" onClick={() => navigate('/')}>🍃 Annapurna Veg</button>
+        <button className="brand" onClick={() => navigate('/')}></button>
         <div className="nav-links">
           <NavLink className={({ isActive }) => `nav-link${isActive ? ' active' : ''}`} to="/">Home</NavLink>
           <NavLink className={({ isActive }) => `nav-link${isActive ? ' active' : ''}`} to="/menu">Menu</NavLink>
