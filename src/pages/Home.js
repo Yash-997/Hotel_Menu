@@ -33,7 +33,7 @@ export default function Home() {
           <article className="card" aria-label="Location">
             <div className="card-body">
               <h3 style={{ margin: 0 }}>Location</h3>
-              <p className="desc">Shirol, Kolhapur</p>
+              <p className="desc">Pune, Maharashtra </p>
             </div>
           </article>
           <article className="card" aria-label="Contact">
